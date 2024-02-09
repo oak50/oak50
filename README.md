@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **oak50/oak50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
